@@ -7,7 +7,7 @@
 ### [2020-12-28(MON) 표준 함수](https://github.com/LAH1203/Kotlin_study/blob/main/%ED%91%9C%EC%A4%80%ED%95%A8%EC%88%98.md)
 
 ## 코틀린 프로그래밍 기본 2/2(객체지향편)
-### 2021-01-08(FRI) 클래스와 객체의 정의, 생성자
+### [2021-01-08(FRI) 클래스와 객체의 정의, 생성자](https://github.com/LAH1203/Kotlin_study/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EA%B0%9D%EC%B2%B4(1%2C%202).md)
 
 ## 코틀린 프로그래밍 응용(안드로이드편)
 ### 아직 강의가 나오지 않았으므로 방학 후에나 해야할 듯 싶다ㅜ

@@ -2,7 +2,7 @@
 
 ## 코틀린 프로그래밍 기본 1/2(함수편)
 ### [2020-12-21(MON) Prolog, 변수, 자료형, 연산자](https://github.com/LAH1203/Kotlin_study/blob/main/%EB%B3%80%EC%88%98%2C%EB%8D%B0%EC%9D%B4%ED%84%B0%2C%ED%83%80%EC%9E%85.md)
-### 2020-12-23(WED) 함수형 프로그래밍
+### [2020-12-23(WED) 함수형 프로그래밍](https://github.com/LAH1203/Kotlin_study/blob/main/%ED%95%A8%EC%88%98%ED%98%95_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 ### 2020-12-26(SAT) 조건문, 반복문, 예외 처리
 ### 2020-12-28(MON) 표준 함수
 
